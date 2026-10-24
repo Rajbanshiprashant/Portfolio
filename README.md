@@ -10,7 +10,7 @@
 
 ---
 
-## ✦ Features
+ Features
 
 - **Cyberpunk / Anime Aesthetic**: Ultra-dark theme (`#070714`), neon pink (`#FF2A85`), neon cyan (`#00F0FF`), and yellow accents with chromatic 3D glitch text.
 - **Topographical Radar Spectrum**: Real-time rotating contour scan in the hero section.
@@ -20,9 +20,9 @@
 - **MongoDB Direct Transmission Gateway**: Secure contact inquiry API endpoint (`/api/contact`) persisting submissions to MongoDB.
 - **Interactive Global Overlays**: Custom spring-physics cursor and scroll progress indicator.
 
----
 
-## 🛠️ Tech Stack
+
+ Tech Stack
 
 - **Framework**: Next.js 16 (App Router + Turbopack)
 - **Styling**: Tailwind CSS v4
@@ -32,7 +32,7 @@
 
 ---
 
-## 🚀 Getting Started
+ Getting Started
 
 ### 1. Clone the repository
 ```bash
@@ -60,5 +60,5 @@ Open [http://localhost:3000](http://localhost:3000) to view the site.
 
 ---
 
-## 📄 License
+ License
 © 2025 Prashant Studio. All rights reserved.
